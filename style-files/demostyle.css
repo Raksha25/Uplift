@@ -519,9 +519,6 @@ DROPDOWN */
     width: 20rem;
 }
 
-footer {
-    margin-top: 4%;
-}
 
 .contains-sec {
     display: flex;
@@ -696,4 +693,10 @@ footer {
 
 .box .form {
     padding-top: 90px;
+}
+hr {
+  margin: 0 !important;
+}
+h4{
+    margin:0 !important;
 }
